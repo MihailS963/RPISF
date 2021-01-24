@@ -1,0 +1,7 @@
+SESSION_MANAGER=local/ammvsu-VirtualBox:@/tmp/.ICE-unix/839,unix/ammvsu-VirtualBox:/tmp/.ICE-unix/839
+PWD=/home/ammvsu/Рабочий стол/Suyarov
+LOGNAME=ammvsu
+XAUTHORITY=/home/ammvsu/.Xauthority
+XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/ammvsu
+HOME=/home/ammvsu
+USER=ammvsu
